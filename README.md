@@ -12,7 +12,7 @@ This repository provides step-by-step instructions to **install and run Electric
 
 ## 🔗 Downloads
 
-- Official JAR (v9.07): [Electric VLSI Downloads Page](https://www.staticfreesoft.com/productsFree.html)
+- Official JAR (v9.08): [Electric VLSI Downloads Page](https://www.staticfreesoft.com/productsFree.html)
 - Or clone this repo to use the `.jar` directly.
 
 ---
