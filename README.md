@@ -100,7 +100,7 @@ Example:
 
 ```
 cd Downloads
-java -jar electric.jar
+java -jar electric-9.08.jar
 ```
 And boom! 🎯 it should run.
 
